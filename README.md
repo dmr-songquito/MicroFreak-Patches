@@ -8,3 +8,4 @@ Use Arturia's [MIDI Control Center](https://dl.arturia.net/products/mccu/soft/MI
 
 ![Screenshot of Arturia MIDI Control Center](SampleTransfer_MIDI_ControlCenter.PNG)
 
+<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"></a></p> 
